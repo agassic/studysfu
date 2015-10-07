@@ -44,7 +44,6 @@ Customer A brief description of the customer for this software. There may be mul
 Competitive Analysis Briefly identify the competitors in this market, and list the main ways in which your project is going to be different. Your project does not necessarily have to be 100 percent original; it can actually be a reimplementation of (a part of) an existing product, but we want you to attempt to specify the differences. Of course we will ask you to be as creative as possible. (Must include in the zeroth iteration)
 
 You may choose to start creating some UI mockups on
-paper
 
 
 
